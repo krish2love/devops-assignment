@@ -7,7 +7,7 @@ This repository holds the DevOps assignment.
 As developers of this beautiful service, of course, we need proper CI/CD! We suggest GitLab with GitLab runner since it is what we use in production. You can create a free account at [https://gitlab.com/](https://gitlab.com/). _**as pubilc repo, group name as "Demo1" and Project name should be "DemoCICD"**_
 
 There are a couple of requirements:
-- [ ] Write a bash script **gencsv.sh** to generate a file named **inputFile** whose content looks like:
+- [ ] Write a bash script **gencsv.sh** to generate a file named **inputFile** whose content looks like and upload to gitlab project **DemoCICD**:
 ```
     0, 234
     1, 98
